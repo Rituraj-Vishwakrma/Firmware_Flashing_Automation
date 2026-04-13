@@ -1,4 +1,4 @@
-# ⚡ UPS Firmware Flashing Automation: Rituraj
+# ⚡ UPS Firmware Flashing Automation:
 
 ## 📌 Overview
 
