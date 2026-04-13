@@ -1,0 +1,39 @@
+DSLite version 20.5.0.4019
+Configuring Debugger (may take a few minutes on first launch)...
+	Initializing Register Database...
+	Initializing: IcePick_C_0
+	Executing Startup Scripts: IcePick_C_0
+	Initializing: C28xx_CPU1
+	Executing Startup Scripts: C28xx_CPU1
+	Initializing: CLA1_0
+	Executing Startup Scripts: CLA1_0
+	Initializing: JLM
+	Executing Startup Scripts: JLM
+Connecting...
+C28xx_CPU1: GEL Output: 
+
+RAM initialization done
+
+C28xx_CPU1: GEL Output: 
+Memory Map Initialization Complete
+C28xx_CPU1: GEL Output: ... DCSM Initialization Start ... 
+C28xx_CPU1: GEL Output: ... DCSM Initialization Done ...
+C28xx_CPU1: GEL Output: ... DCSM Initialization Start ... 
+C28xx_CPU1: GEL Output: ... DCSM Initialization Done ...
+Loading Program: /home/vvdn/Downloads/BCI_POC_Board_v0_0_6.out
+	Preparing ... 
+	.text: 0 of 4 at 0x80000
+C28xx_CPU1: GEL Output: ... DCSM Initialization Start ... 
+C28xx_CPU1: GEL Output: ... DCSM Initialization Done ...
+Erasing Flash
+	Erasing Bank 0
+	Erasing Bank 1: 33%
+	Erasing Bank 2: 66%
+	.data: 0 of 16 at 0x80008
+	.text: 0 of 7462 at 0x81000
+	.data: 0 of 380 at 0x81e98: 13%
+	.text: 0 of 19212 at 0x82000: 14%
+	.text: 0 of 26490 at 0x84588: 50%
+	Finished: 50%
+	Setting PC to entry point.: 50%
+Success
